@@ -1,0 +1,9 @@
+{
+  "doc":"test.txt",
+  "backwall":"aa.jpg",
+  "font":"三极崇楷简体.ttf",
+  "line":true,
+  "font_size":50,
+  "width":2100,
+  "height":3500
+}
